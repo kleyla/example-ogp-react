@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/example-ogp-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/example-ogp-react/static/js/main.4aa624b4.chunk.js",
-    "main.js.map": "/example-ogp-react/static/js/main.4aa624b4.chunk.js.map",
+    "main.js": "/example-ogp-react/static/js/main.4bee50ac.chunk.js",
+    "main.js.map": "/example-ogp-react/static/js/main.4bee50ac.chunk.js.map",
     "runtime-main.js": "/example-ogp-react/static/js/runtime-main.a6797d91.js",
     "runtime-main.js.map": "/example-ogp-react/static/js/runtime-main.a6797d91.js.map",
     "static/js/2.b4b27e7a.chunk.js": "/example-ogp-react/static/js/2.b4b27e7a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a6797d91.js",
     "static/js/2.b4b27e7a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4aa624b4.chunk.js"
+    "static/js/main.4bee50ac.chunk.js"
   ]
 }
