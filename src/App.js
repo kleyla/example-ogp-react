@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <a
-        href={`https://api.whatsapp.com/send?text=Hola%0a${window.location.href}`}
+        href={`https://api.whatsapp.com/send?text=Hola, visita mi pagina%0a${window.location.href}`}
         data-action="share/whatsapp/share"
         target="_blank"
       >
